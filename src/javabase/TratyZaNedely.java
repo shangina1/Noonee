@@ -1,5 +1,5 @@
 package javabase;
-
+//задание 2 от 24.01
 import java.util.Random;
 public class TratyZaNedely {
     public static void main(String[] args) {
